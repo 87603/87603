@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lucas and I'm a dude, The Netherlands</h2>
+<h2 align="left">Hi 👋! My name is Lucas and I'm a dude, from The Netherlands</h2>
 
 ###
 <p align="left">I can code stuff.</p>
