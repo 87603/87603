@@ -2,6 +2,11 @@
 
 ###
 <p align="left">I can code stuff.</p>
+<p align="left">- 🌱 I’m currently learning **C/C++**</p>
+<p align="left">- 💬 Ask me about **PHP**</p>
+<p align="left">- 📫 How to reach me **087603@glr.nl**</p>
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
