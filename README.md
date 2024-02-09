@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **PHP**
 
-- 📫 How to reach me **087603@glr.nl**
+- 📫 How to reach me **087603@glr.nl** **lucas598@protonmail.com**
 <p align="left">I'm a coder straight outta The Netherlands, ya know?</p>
 
 
