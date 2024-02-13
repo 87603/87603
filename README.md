@@ -41,7 +41,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.discordapp.net/attachments/212323451707326465/1204351936342786068/resize.png?ex=65d46b25&is=65c1f625&hm=4a0bc4f9cef226692791eb975f162978fda9ceca7a552c8bc903d5079dc1cdbd&=&format=webp&quality=lossless"  />
 
 ###
 
